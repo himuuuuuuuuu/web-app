@@ -110,6 +110,21 @@ home.html
 
 #React Components:-
 properties-
+.React is Component Based.
+.It is easy to reuse,extend and test.
+.Good Reusability,extensibilty,testabilty and maintabilty.
+.It is Modular(Legacy).
+.It uses less Memory.
+.It loads application Specific framework.
+.It Makes application lightweight.
+.It is loosely coupled and extensible.
+.It uses virtual Dom.
+.It uses One Way Binding.
+
+.DOM is hireacy of a Page.
+.Shadow Dom is a copy of actual DOM ia memory.React use virtual DOM to Update the UI.It makes the Rendering and Presentation look faster than normal.
+
+
 -Components are considered as building blocks for SPA [Single Page Application]
 -Components is like a template with 3 basic elements.
 a-Design
